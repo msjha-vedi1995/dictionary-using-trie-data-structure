@@ -1,1 +1,2 @@
 # dictionary-using-trie-data-structure
+uses a list of different words as a database for the dicctionary and uses the trie data structure to traverse through the words when the user initiates a search request and the last pointer contains the meaning of the word and that is shown to the user. if the user initiates the wrong spelling of the word the last pointer where the traversal stops, that word is suggested to the user instead.
